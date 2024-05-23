@@ -5,6 +5,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 #  作者：HeShiLie(myself)
+#  妈的怎么还不是我
 
 # define the positional_encoding in section 3.5
 # 用函数实现吧，它也没参数可学
