@@ -4,11 +4,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-#  作者：HeShiLie(myself)
-#  妈的怎么还不是我
-#  现在是我了
-#  你是谁？
-
 # define the positional_encoding in section 3.5
 # 用函数实现吧，它也没参数可学
 def positional_encoding(input_sequence:torch.tensor, d_model:int):
